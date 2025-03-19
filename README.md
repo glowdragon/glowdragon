@@ -2,7 +2,7 @@
 
 <div>
   <img src="https://img.shields.io/badge/-Nuremberg,%20Germany-2E8B57?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
-  <img src="https://img.shields.io/badge/Age-26-4CAF50?style=for-the-badge&logo=counter-strike&logoColor=white" alt="Age" />
+  <img src="https://img.shields.io/badge/Age-27-4CAF50?style=for-the-badge&logo=counter-strike&logoColor=white" alt="Age" />
 </div>
 
 ## 👨🏻‍💻 About Me
